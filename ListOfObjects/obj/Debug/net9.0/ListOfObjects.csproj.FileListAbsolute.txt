@@ -1,0 +1,14 @@
+D:\Users\user\Desktop\C#\ListOfObjects\obj\Debug\net9.0\ListOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\user\Desktop\C#\ListOfObjects\obj\Debug\net9.0\ListOfObjects.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\C#\ListOfObjects\obj\Debug\net9.0\ListOfObjects.AssemblyInfo.cs
+D:\Users\user\Desktop\C#\ListOfObjects\obj\Debug\net9.0\ListOfObjects.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\C#\ListOfObjects\bin\Debug\net9.0\ListOfObjects.exe
+D:\Users\user\Desktop\C#\ListOfObjects\bin\Debug\net9.0\ListOfObjects.deps.json
+D:\Users\user\Desktop\C#\ListOfObjects\bin\Debug\net9.0\ListOfObjects.runtimeconfig.json
+D:\Users\user\Desktop\C#\ListOfObjects\bin\Debug\net9.0\ListOfObjects.dll
+D:\Users\user\Desktop\C#\ListOfObjects\bin\Debug\net9.0\ListOfObjects.pdb
+D:\Users\user\Desktop\C#\ListOfObjects\obj\Debug\net9.0\ListOfObjects.dll
+D:\Users\user\Desktop\C#\ListOfObjects\obj\Debug\net9.0\refint\ListOfObjects.dll
+D:\Users\user\Desktop\C#\ListOfObjects\obj\Debug\net9.0\ListOfObjects.pdb
+D:\Users\user\Desktop\C#\ListOfObjects\obj\Debug\net9.0\ListOfObjects.genruntimeconfig.cache
+D:\Users\user\Desktop\C#\ListOfObjects\obj\Debug\net9.0\ref\ListOfObjects.dll

@@ -1,0 +1,14 @@
+D:\Users\user\Desktop\C#\Statements\bin\Debug\net9.0\Statements.exe
+D:\Users\user\Desktop\C#\Statements\bin\Debug\net9.0\Statements.deps.json
+D:\Users\user\Desktop\C#\Statements\bin\Debug\net9.0\Statements.runtimeconfig.json
+D:\Users\user\Desktop\C#\Statements\bin\Debug\net9.0\Statements.dll
+D:\Users\user\Desktop\C#\Statements\bin\Debug\net9.0\Statements.pdb
+D:\Users\user\Desktop\C#\Statements\obj\Debug\net9.0\Statements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\user\Desktop\C#\Statements\obj\Debug\net9.0\Statements.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\C#\Statements\obj\Debug\net9.0\Statements.AssemblyInfo.cs
+D:\Users\user\Desktop\C#\Statements\obj\Debug\net9.0\Statements.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\C#\Statements\obj\Debug\net9.0\Statements.dll
+D:\Users\user\Desktop\C#\Statements\obj\Debug\net9.0\refint\Statements.dll
+D:\Users\user\Desktop\C#\Statements\obj\Debug\net9.0\Statements.pdb
+D:\Users\user\Desktop\C#\Statements\obj\Debug\net9.0\Statements.genruntimeconfig.cache
+D:\Users\user\Desktop\C#\Statements\obj\Debug\net9.0\ref\Statements.dll

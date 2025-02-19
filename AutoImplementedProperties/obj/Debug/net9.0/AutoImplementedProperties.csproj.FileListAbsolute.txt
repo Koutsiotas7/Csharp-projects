@@ -1,0 +1,14 @@
+D:\Users\user\Desktop\C#\AutoImplementedProperties\obj\Debug\net9.0\AutoImplementedProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\user\Desktop\C#\AutoImplementedProperties\obj\Debug\net9.0\AutoImplementedProperties.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\C#\AutoImplementedProperties\obj\Debug\net9.0\AutoImplementedProperties.AssemblyInfo.cs
+D:\Users\user\Desktop\C#\AutoImplementedProperties\obj\Debug\net9.0\AutoImplementedProperties.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\C#\AutoImplementedProperties\bin\Debug\net9.0\AutoImplementedProperties.exe
+D:\Users\user\Desktop\C#\AutoImplementedProperties\bin\Debug\net9.0\AutoImplementedProperties.deps.json
+D:\Users\user\Desktop\C#\AutoImplementedProperties\bin\Debug\net9.0\AutoImplementedProperties.runtimeconfig.json
+D:\Users\user\Desktop\C#\AutoImplementedProperties\bin\Debug\net9.0\AutoImplementedProperties.dll
+D:\Users\user\Desktop\C#\AutoImplementedProperties\bin\Debug\net9.0\AutoImplementedProperties.pdb
+D:\Users\user\Desktop\C#\AutoImplementedProperties\obj\Debug\net9.0\AutoImplementedProperties.dll
+D:\Users\user\Desktop\C#\AutoImplementedProperties\obj\Debug\net9.0\refint\AutoImplementedProperties.dll
+D:\Users\user\Desktop\C#\AutoImplementedProperties\obj\Debug\net9.0\AutoImplementedProperties.pdb
+D:\Users\user\Desktop\C#\AutoImplementedProperties\obj\Debug\net9.0\AutoImplementedProperties.genruntimeconfig.cache
+D:\Users\user\Desktop\C#\AutoImplementedProperties\obj\Debug\net9.0\ref\AutoImplementedProperties.dll

@@ -1,0 +1,14 @@
+D:\Users\user\Desktop\C#\Exceptions\obj\Debug\net9.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\user\Desktop\C#\Exceptions\obj\Debug\net9.0\Exceptions.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\C#\Exceptions\obj\Debug\net9.0\Exceptions.AssemblyInfo.cs
+D:\Users\user\Desktop\C#\Exceptions\obj\Debug\net9.0\Exceptions.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\C#\Exceptions\bin\Debug\net9.0\Exceptions.exe
+D:\Users\user\Desktop\C#\Exceptions\bin\Debug\net9.0\Exceptions.deps.json
+D:\Users\user\Desktop\C#\Exceptions\bin\Debug\net9.0\Exceptions.runtimeconfig.json
+D:\Users\user\Desktop\C#\Exceptions\bin\Debug\net9.0\Exceptions.dll
+D:\Users\user\Desktop\C#\Exceptions\bin\Debug\net9.0\Exceptions.pdb
+D:\Users\user\Desktop\C#\Exceptions\obj\Debug\net9.0\Exceptions.dll
+D:\Users\user\Desktop\C#\Exceptions\obj\Debug\net9.0\refint\Exceptions.dll
+D:\Users\user\Desktop\C#\Exceptions\obj\Debug\net9.0\Exceptions.pdb
+D:\Users\user\Desktop\C#\Exceptions\obj\Debug\net9.0\Exceptions.genruntimeconfig.cache
+D:\Users\user\Desktop\C#\Exceptions\obj\Debug\net9.0\ref\Exceptions.dll

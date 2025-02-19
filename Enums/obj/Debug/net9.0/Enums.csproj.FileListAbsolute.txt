@@ -1,0 +1,14 @@
+D:\Users\user\Desktop\C#\Enums\obj\Debug\net9.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\user\Desktop\C#\Enums\obj\Debug\net9.0\Enums.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\C#\Enums\obj\Debug\net9.0\Enums.AssemblyInfo.cs
+D:\Users\user\Desktop\C#\Enums\obj\Debug\net9.0\Enums.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\C#\Enums\bin\Debug\net9.0\Enums.exe
+D:\Users\user\Desktop\C#\Enums\bin\Debug\net9.0\Enums.deps.json
+D:\Users\user\Desktop\C#\Enums\bin\Debug\net9.0\Enums.runtimeconfig.json
+D:\Users\user\Desktop\C#\Enums\bin\Debug\net9.0\Enums.dll
+D:\Users\user\Desktop\C#\Enums\bin\Debug\net9.0\Enums.pdb
+D:\Users\user\Desktop\C#\Enums\obj\Debug\net9.0\Enums.dll
+D:\Users\user\Desktop\C#\Enums\obj\Debug\net9.0\refint\Enums.dll
+D:\Users\user\Desktop\C#\Enums\obj\Debug\net9.0\Enums.pdb
+D:\Users\user\Desktop\C#\Enums\obj\Debug\net9.0\Enums.genruntimeconfig.cache
+D:\Users\user\Desktop\C#\Enums\obj\Debug\net9.0\ref\Enums.dll
