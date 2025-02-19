@@ -1,0 +1,15 @@
+D:\Users\user\Desktop\C#\ToDoApp\bin\Debug\net9.0\ToDoApp.exe
+D:\Users\user\Desktop\C#\ToDoApp\bin\Debug\net9.0\ToDoApp.deps.json
+D:\Users\user\Desktop\C#\ToDoApp\bin\Debug\net9.0\ToDoApp.runtimeconfig.json
+D:\Users\user\Desktop\C#\ToDoApp\bin\Debug\net9.0\ToDoApp.dll
+D:\Users\user\Desktop\C#\ToDoApp\bin\Debug\net9.0\ToDoApp.pdb
+D:\Users\user\Desktop\C#\ToDoApp\obj\Debug\net9.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\user\Desktop\C#\ToDoApp\obj\Debug\net9.0\ToDoApp.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\C#\ToDoApp\obj\Debug\net9.0\ToDoApp.AssemblyInfo.cs
+D:\Users\user\Desktop\C#\ToDoApp\obj\Debug\net9.0\ToDoApp.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\C#\ToDoApp\obj\Debug\net9.0\ToDoApp.sourcelink.json
+D:\Users\user\Desktop\C#\ToDoApp\obj\Debug\net9.0\ToDoApp.dll
+D:\Users\user\Desktop\C#\ToDoApp\obj\Debug\net9.0\refint\ToDoApp.dll
+D:\Users\user\Desktop\C#\ToDoApp\obj\Debug\net9.0\ToDoApp.pdb
+D:\Users\user\Desktop\C#\ToDoApp\obj\Debug\net9.0\ToDoApp.genruntimeconfig.cache
+D:\Users\user\Desktop\C#\ToDoApp\obj\Debug\net9.0\ref\ToDoApp.dll
